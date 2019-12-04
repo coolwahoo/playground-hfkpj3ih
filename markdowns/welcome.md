@@ -1,9 +1,9 @@
 # Welcome!
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+Vous découvrirez ici les fondamentaux du développement web et du HML
 
 
-Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
+L'ensemble de ces sections font partis d'un cours disponible sur [LinkedIn Leanring](https://linkedin.com/learning).
 
 # Template Resources
 

@@ -2,3 +2,5 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Page 2
+  statement: markdowns/page1.md
